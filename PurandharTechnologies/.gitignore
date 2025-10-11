@@ -1,0 +1,20 @@
+# 🧱 Angular (Node)
+frontend/node_modules
+frontend/dist
+
+# ⚙️ Spring Boot
+backend/target
+
+# 🧩 Environment files
+*.env
+*.properties
+
+# 🧠 IDE settings
+.idea/
+.vscode/
+*.iml
+
+# 💻 System files
+.DS_Store
+Thumbs.db
+*.log
